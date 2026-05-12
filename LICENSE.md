@@ -1,4 +1,4 @@
-# 
+# custom Trading Bot for Polymarket - scalping-strategies and portfolio-optimization is the best Polymarket trading-bot, featuring scalping-strategies and portfolio-optimization.
 
 
 
